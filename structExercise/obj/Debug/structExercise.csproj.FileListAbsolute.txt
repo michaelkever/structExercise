@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\bin\Debug\structExercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\bin\Debug\structExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\bin\Debug\structExercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\obj\Debug\structExercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\obj\Debug\structExercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\obj\Debug\structExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\structExercise\structExercise\structExercise\obj\Debug\structExercise.pdb
